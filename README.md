@@ -42,3 +42,6 @@ Para o desenvolvimento deste projeto utilizamos as tecnologias:
 </ul>
 
 # 💻 Versão desktop
+
+![Captura de Tela (557)](https://github.com/Davysu/Fluir-Studio/assets/105729246/a8acbde6-7f7c-4608-a3b3-965243d72b0e)
+
